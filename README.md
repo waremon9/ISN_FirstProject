@@ -1,5 +1,7 @@
 # ISN_FirstProject
-My first project ever. python, a game, it work but do not stare at the code or your soul will be absorbed.
+My first project ever. 
+Done with De Betignie Tanguy.
+Python, a game, it work but do not stare at the code or your soul will be absorbed.
 
 Really, i'm not lying. Its my ISN Project, i have 2 great teachers but not professinnal programmer.
 
