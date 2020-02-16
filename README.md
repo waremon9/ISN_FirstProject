@@ -1,4 +1,5 @@
 # ISN_FirstProject
+School year 2017-2018
 My first project ever. 
 Done with De Betignie Tanguy.
 Python, a game, it work but do not stare at the code or your soul will be absorbed.
